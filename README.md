@@ -1,13 +1,13 @@
 # Data Science Projects
 
-English | [French](README_FR.md) | [Русский](README_RU.md)
+English | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Русский](README_RU.md)
 
 A comprehensive repository showcasing my work across various Data Science projects. Each project is contained in its own
 directory, complete with a detailed README outlining the project's objectives, methods, and conclusions and a Jupyter
 Notebook containing the code and analysis.
 
-| Project name                         | Client              | Input Data                                            | Description                                                                                                                                                                                          | Used Libraries                   |
-|:-------------------------------------|---------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-| [Big Cities Music](./1-big-city-music) | Yandex.Music        | User music preferences in Moscow and Saint Petersburg | Comparison of the preferences of Yandex.Music users from Moscow and Saint Petersburg depending on the time (morning and evening) and day of the week (Monday, Wednesday, Friday)                     | *pandas*                         |
-| [Loan Repayment Analysis](./2-loan-repayment) | Bank's credit department | Loan repayment statistics                             | The analysis examines how marital status, number of children, income level, and loan purpose impact a client's likelihood of repaying loans on time to improve credit scoring and lending decisions. | *pandas*                         |
-| [Iris Clustering](./3-iris-clustering) | No client | Iris flower dataset from sklearn | Implemented K-Means clustering to group Iris flowers based on petal and sepal features. Visualized clusters and centroids in a 2D plot.                                                              | *numpy*, *matplotlib*, *sklearn* | 
+| Project name                                      | Client              | Input Data                                            | Description        | Used Libraries |
+|:--------------------------------------------------|---------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+| [Big Cities Music](./1-big-city-music)            | Yandex.Music        | User music preferences in Moscow and Saint Petersburg | Comparison of the preferences of Yandex.Music users from Moscow and Saint Petersburg depending on the time (morning and evening) and day of the week (Monday, Wednesday, Friday) | *pandas*      |
+| [Loan Repayment Analysis](./2-loan-repayment)     | Bank's credit department | Loan repayment statistics                             | The analysis examines how marital status, number of children, income level, and loan purpose impact a client's likelihood of repaying loans on time to improve credit scoring and lending decisions. | *pandas* |
+| [Apartment Sale Listings Analysis](./3-real-estate) | Real Estate Agencies / Banks / Online Platforms | Archive of Yandex Real Estate listings | Analyzing factors (area, location, etc.) that affect property prices in various regions of St. Petersburg | pandas, matplotlib |
